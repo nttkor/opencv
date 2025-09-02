@@ -1,0 +1,19 @@
+# Python 캐시 파일
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 가상환경 폴더 (이름이 venv인 경우)
+venv/
+.venv/
+
+# 가상환경 관련 흔히 쓰는 이름들
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# 기타 임시 파일
+*.log
+*.tmp
+*.swp
